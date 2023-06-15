@@ -1,0 +1,10 @@
+
+/Internal storage/Android/media/com.whatsapp/WhatsApp/Media/.Statuses
+/storage/emulated/0/Android/media/com.whatsapp/WhatsApp/Media/.Statuses
+
+/Internal storage (Dual Messenger)/Android/media/com.whatsapp/WhatsApp/Media/.Statuses
+/storage/emuleted/0/DualApp/WhatsApp/Media/.Statuses
+
+/Internal storage/DualApp/WhatsApp/Media/.Statuses
+other
+"/storage/emulated/999/WhatsApp/Media/.Statuses"
